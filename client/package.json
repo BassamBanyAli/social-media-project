@@ -8,6 +8,7 @@
     "@mui/icons-material": "^5.14.12",
     "@mui/material": "^5.14.12",
     "@reduxjs/toolkit": "^1.9.6",
+    "@syncfusion/ej2-react-dropdowns": "^23.1.44",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -31,8 +32,8 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "Aspire-Social-Media",
+      "Aspire-Social-Media/jest"
     ]
   },
   "browserslist": {
